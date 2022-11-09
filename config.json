@@ -1,0 +1,35 @@
+{
+    "data": {
+        "store"     : "Vi Nails And Spa",
+        "slug"      : "Vi-nails-and-spa", 
+        "phone"     : "(409) 316-9288", 
+        "email"     : "lethihuong265@gmail.com",
+        "address"   : "12472 Hwy 6, Santa Fe, Texas 77510",
+        "time_1"    : "Mon - Fri: 09:00 AM - 07:00 PM",
+        "time_2"    : "Sat: 09:00 AM - 06:00 PM",
+        "time_3"    : "Sun: 11:30 AM - 05:00 PM"
+    },
+    "url":  {
+        "facebook"  :   "https://www.facebook.com/Vinailsandspa2015",
+        "instagram" :   "https://www.instagram.com/vinailsandspa",
+        "google"    :   "https://goo.gl/maps/TQSSEVtdKQVXXXxd7", 
+        "booking"   :   "https://www.lldtek.com/salon/appt/NTAxOTF8dmluYWlsczgzMnxUWF8wODE3NnwyMWU5NDhlN2FjMDVkNzBkY2FhMDg2ZDVjM2VjNmUwNQ==",
+        "maps"      :   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d55637.828745774656!2d-95.1022728440243!3d29.359620793165842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864081ae016b25bf%3A0x7e6f1506c6f66c4d!2sVi%20Nails%20And%20Spa!5e0!3m2!1sen!2s!4v1667967883917!5m2!1sen!2s"
+    },
+    "color": {
+        "primary"               :   "#c91172",
+        "primary_light"         :   "#ff92d6",
+        "primary_hover"         :   "#FFFFFF",
+        "secondary"             :   "#c91172",
+        "secondary_hover"       :   "#88BC3A",
+        "text_primary"          :   "#fff",
+        "text_primary_hover"    :   "#FFFFFF",
+        "text_secondary"        :   "#FFFFFF",
+        "text_secondary_hover"  :   "#FFFFFF",
+        "text_title"            :   "#429D64",
+        "text_title_hover"      :   "#90C73E"
+    },
+    "debug":        "on",
+    "path_image":   "assets/images",
+    "domain":       "http://127.0.0.1:5500/"
+}
